@@ -1,0 +1,14 @@
+XMTP stands out through several innovative features that address common pain points in decentralized communication:Security and Privacy: Messages are encrypted client-side, with only recipients able to decrypt them. The use of MLS ensures quantum-safe messaging and protects against retroactive decryption attacks. XMTP's "unruggable" infrastructure means no single entity can alter rules, revoke access, or shut down the service. 
+
+2 fuentes
+
+Identity and Interoperability: XMTP supports diverse digital identities, including wallets, passkeys, World ID, and social IDs from networks like Base, Farcaster, and ENS. This enables seamless messaging across ecosystems, with plans to expand to emerging networks like Bluesky and Nostr. 
+
+2 fuentes
+
+Spam Protection and Consent: Built-in mechanisms allow users to block spam once, with protections extending network-wide. This user-centric consent model enhances safety without compromising decentralization. 
+
+Decentralization and Open Source: The entire stack—protocol, apps, and SDKs—is open source, available on GitHub for inspection and modification. Developers can integrate XMTP via SDKs for browsers, Node.js, React Native, Android, and iOS, fostering rapid app development. 
+
+XMTP's testnet, launched in late 2024, powers a progressively decentralized network of nodes compliant with U.S. regulations, with plans for full permissionless operation in the future. 
+
